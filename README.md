@@ -1,11 +1,11 @@
 <!-- Animated typing introduction -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Moumen+%F0%9F%91%8B;Software+Engineering+Student;Exploring+Artificial+Intelligence;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Moumen+%F0%9F%91%8B;Software+Engineer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation" />
 
-### Software Engineering Student |
+### Software Engineering Student 
 
 *Turning ideas into code, exploring new technologies, and building things that matter.*
 
@@ -41,19 +41,19 @@ const me = {
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,flutter" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
 </p>
 
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,jenkins,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,docker,linux,vscode" />
 </p>
 
 ## Featured Projects
